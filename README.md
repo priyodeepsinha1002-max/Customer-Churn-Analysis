@@ -37,5 +37,5 @@ Beyond basic descriptive statistics, this project engineered critical operationa
 
 ## 📁 Repository Structure
 *   `customer_churn.db`: Raw SQLite Database file (Required for initial import logic).
-*   `Churn analysis.ipynb`: Finalized Python source code.
-*   `Chrun_data.csv`: Programmatically exported consolidated dataset.
+*   `churn_analysis.py`: Finalized Python source code.
+*   `customer_churn_data_raw.csv`: Programmatically exported consolidated dataset.
